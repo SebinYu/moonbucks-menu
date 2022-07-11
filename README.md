@@ -2,7 +2,7 @@
 <p align="middle">
   <img width="200px;" src="./src/images/moonbucks.png"/>
 </p>
-<h2 align="middle">JS 문벅스 카페메뉴 앱</h2>
+<h2 align="middle">JS 문벅스 카페메뉴 앱(수정본)</h2>
 <p align="middle">Vanilla JS로 구현 하는 상태관리가 가능한 카페메뉴 앱</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
