@@ -16,7 +16,7 @@
 
 <br/>
 
-# ☕️ 코드리뷰 모임 - Black Coffee
+# ☕️ 코드리뷰 모임 - Black Coffee(오히려좋아 팀)
 
 <br/>
 
